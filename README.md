@@ -13,3 +13,4 @@ To complete the project, two files will be submitted: a file containing project 
 
 To meet specifications in the project, take a look at the requirements in the project rubric.
 
+![alt text](https://github.com/nalinirachit/SelfDrivingCar_Term1-LaneLines/blob/master/LaneLines.PNG)
